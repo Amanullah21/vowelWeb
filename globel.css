@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    font-size: 16px !important;
+}
+
+h1 {
+    font-size: 36px !important;
+}
+
+h3 {
+    font-size: 18.72px !important;
+}
+
+.text-color {
+    color: #fec55c;
+}
+
+button {
+    cursor: pointer;
+}
+
+.line {
+    height: 1px;
+    width: 50px;
+    background-color: #fcf3e4;
+    margin-top: 18px;
+    margin: 25px 10px;
+}
+
+
+.hire-me {
+    border: none;
+    background: none;
+    font-size: medium;
+    color: #fe9048;
+    font-weight: bold;
+    /* background: -webkit-linear-gradient(#fcf3e4 #fe9048); */
+    /* -webkit-background-clip: text; */
+    /* -webkit-text-fill-color: transparent; */
+
+
+}
+
+.nav-link {
+    color: black !important;
+}
