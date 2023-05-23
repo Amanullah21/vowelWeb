@@ -56,12 +56,12 @@ nav {
 
 .text-decor-home {
     font-size: 60px !important;
-    font-weight:800 ;
+    font-weight: 800;
     letter-spacing: 6px;
     color: transparent;
-    background-image: url("./Image/background-image1.png");
-    background-size: 88% 150%;
-    -webkit-background-clip: text;
+    background-image: url("./Image/background.png") !important;
+    background-size: 88% 150% !important;
+    -webkit-background-clip: text !important;
 
 }
 
