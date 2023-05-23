@@ -213,9 +213,6 @@ nav {
 
 /* // responsive  */
 @media (max-width: 400px) {
-    body {
-        background-color: green !important;
-    }
 
     .container {
         height: 400px;
@@ -296,7 +293,6 @@ nav {
         display: block;
         height: fit-content;
         padding-left: 0px;
-        background-color: blueviolet !important;
     }
 
     .service-left-side,
